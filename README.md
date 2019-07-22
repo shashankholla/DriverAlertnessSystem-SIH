@@ -1,5 +1,12 @@
 # Driver Alertness Detection
 #### Team Inferno123 at SIH 2019 - R.V College of Engineering
+Members: 
+	- Akash Prabakar
+	- Aniruddh M
+	- Juhie Fadnavis
+	- Shashank C Mouli
+	- Shashank K Holla
+	
 The proposed solution has 4 major aspects. 
 - Drunk driver detection System
 - Road Speed Alert System
